@@ -1,4 +1,4 @@
-### Hi there, I'm Pedro Dias 👋
+### Hello Dear, I'm Pedro Dias 👋
 
 - 🔭 I’m currently working by myself
 - 🌱 I’m currently learning python and JS
