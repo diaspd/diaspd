@@ -15,5 +15,9 @@
  <a href = "mailto: pdr050203@gamil.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/pedro-dias-523215206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/dias_pdr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/diaspdr_1" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue"target="_blank"></a>
+    <a href="https://twitter.com/diaspdr_1" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fdiaspdr_1"target="_blank"></a>
+</div>
+
+<div> https://img.shields.io/github/stars/diaspd?style=for-the-badge
+      https://img.shields.io/github/followers/diaspd?style=for-the-badge
 </div>
