@@ -18,6 +18,6 @@
     <a href="https://twitter.com/diaspdr_1" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fdiaspdr_1"target="_blank"></a>
 </div>
 
-<div> https://img.shields.io/github/stars/diaspd?style=for-the-badge
-      https://img.shields.io/github/followers/diaspd?style=for-the-badge
+<div> <p>https://img.shields.io/github/stars/diaspd?style=for-the-badge</p>
+     <p> https://img.shields.io/github/followers/diaspd?style=for-the-badge</p>
 </div>
