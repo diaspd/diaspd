@@ -17,7 +17,3 @@
   <a href="https://www.instagram.com/dias_pdr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/diaspdr_1" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fdiaspdr_1"target="_blank"></a>
 </div>
-
-<div> <a target="_blank">"https://img.shields.io/github/stars/diaspd?style=for-the-badge"target=_blank"></a>
-     <a target="_blank"> "https://img.shields.io/github/followers/diaspd?style=for-the-badge"target=_blank">/p>
-</div>
