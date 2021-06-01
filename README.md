@@ -17,6 +17,6 @@
   <a href="https://www.instagram.com/dias_pdr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/diaspdr_1" target="_blank"><img src="https://img.shields.io/twitter/url?color=gray&label=TWITTER&logo=Twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Fcolor%3Dwhite%26label%3DTWITTER%26logo%3DTwitter%26logoColor%3Dblue%26style%3Dfor-the-badge"target="_blank"></a>
   
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/https://github.com/diaspd/blob/output/github-contribution-grid-snake.svg)
   
 </div>
