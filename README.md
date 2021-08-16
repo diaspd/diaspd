@@ -16,6 +16,7 @@
   <img align="center" alt="dias-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="dias-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="dias-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="right" alt="dias-gif" height="150"src="https://media.giphy.com/media/Ojf41KD6nv9kp1iMyc/giphy.gif">
 </div>
 
   ##
