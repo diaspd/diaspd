@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/diaspd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diaspd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api?username=diaspd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaspd&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
