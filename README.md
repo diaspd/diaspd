@@ -25,7 +25,7 @@
 
   ##
   
- ### How to reach me out !!
+ ### How to reach me out !!!
  <div "text-aling: center">
  <a href = "mailto: pdr050203@gamil.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/pedro-diasr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
