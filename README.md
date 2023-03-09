@@ -1,4 +1,4 @@
-## Hello Dear, I'm Pedro Dias 💻✨👋
+# Hello Dear, I'm Pedro Dias 💻✨👋
 
 <div align= "center">
   <a href="https://github.com/diaspd">
@@ -6,7 +6,7 @@
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaspd&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ##
+## Technologies I know
   
 <div display="inline_block"><br>
   <img align="center" alt="dias-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
