@@ -10,20 +10,28 @@
   
 <div display="inline_block">
   
-  <img align="center" title="HTML" alt="dias-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" title="CSS" alt="dias-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="HTML" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  
+  <img align="center" title="CSS" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="center" title="Java Script" alt="dias-Js" height="40" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" title="Java Script" alt="Js" height="40" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
  
-  <img align="center" title="Type Script" alt="dias-Ts" height="40" width="40"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" title="Type Script" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
-  <img align="center" alt="dias-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="dias-Next" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
-  <img align="center" alt="dias-expo" width="40" height="35" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" />
-  <img align="center" alt="dias-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="dias-node" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> 
-  <img align="center" alt="dias-Sqlite" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="dias-Figma" width="40" height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+  <img align="center" title="React" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+  <img align="center" title="Next" alt="Next" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
+  
+  <img align="center" title="Expo" alt="expo" width="40" height="35" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" />
+  
+  <img align="center" title="Python" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <img align="center" title="NodeJS" alt="node" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> 
+  
+  <img align="center" title="Sqlite" alt="Sqlite" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+  
+  <img align="center" title="Figma" alt="Figma" width="40" height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+  
   <img align="right" alt="dias-gif" height="150" src="https://media.giphy.com/media/Ojf41KD6nv9kp1iMyc/giphy.gif">
 </div>
 
