@@ -10,7 +10,7 @@
 - I'm a full stack developer 💻
 - I like to discover something new every day 📝
 - Focused on code 🏴
-- Personal site at: comming soon
+- Personal site at: coming soon
 
 ##
   
