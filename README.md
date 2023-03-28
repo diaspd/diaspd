@@ -40,7 +40,7 @@
   
   <img align="center" title="Figma" alt="Figma" width="40" height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
   
-  <img align="right" alt="dias-gif" height="200" src="https://media.giphy.com/media/Ojf41KD6nv9kp1iMyc/giphy.gif">
+  <img align="right" alt="dias-gif" height="180rem" src="https://media.giphy.com/media/Ojf41KD6nv9kp1iMyc/giphy.gif">
 </div>
 
 </br>
