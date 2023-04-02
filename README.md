@@ -2,6 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/diaspd">
+  
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=diaspd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaspd&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -40,7 +41,10 @@
   
   <img align="center" title="Figma" alt="Figma" width="40" height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
   
+  <img align="center" alt="tailwind" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  
   <img align="right" alt="dias-gif" height="180rem" src="https://media.giphy.com/media/Ojf41KD6nv9kp1iMyc/giphy.gif">
+  
 </div>
 
 </br>
