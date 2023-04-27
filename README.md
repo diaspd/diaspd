@@ -11,8 +11,8 @@
   
 ## About me
 - I'm a full stack developer 💻
-- I like to discover something new every day 📝
 - bachelor in Computer Science 😎
+- I like to discover something new every day 📝
 - Focused on code 🏴
 - Personal site at: coming soon
   
