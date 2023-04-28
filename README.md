@@ -14,7 +14,7 @@
 - bachelor in Computer Science 😎
 - I like to discover something new every day 📝
 - Focused on code 🏴
-- Personal site at: coming soon
+- Personal site at: coming soon ⚛⌛
   
 </br>
   
