@@ -56,7 +56,9 @@
 <div "text-aling: center">
   <a href = "mailto: pdr050203@gamil.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/pedro-diasr"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://www.instagram.com/dias_pdr"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>     
+  <a href="https://www.instagram.com/dias_pdr">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>     
   <a href="https://stackoverflow.com/users/14940062/diaspd?tab=profile">
     <img src="https://img.shields.io/badge/-StackOverflow-%23EA4300?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
