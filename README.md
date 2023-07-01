@@ -47,6 +47,7 @@
   <img align="center" title="TailwindCss" alt="tailwind" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   
   <img align="right" alt="dias-gif" height="145rem" src="https://media.giphy.com/media/Ojf41KD6nv9kp1iMyc/giphy.gif" />
+  
 </div>
 
 </br>
