@@ -14,7 +14,7 @@
 - bachelor in Computer Science 😎
 - I like to discover something new every day 📝
 - Focused on code 🏴
-- Personal site at: <a href="https://pedro-dias-site.vercel.app/" />
+- Personal site at: <a href="https://pedro-dias-site.vercel.app/"> Here </a>
   
 </br>
   
