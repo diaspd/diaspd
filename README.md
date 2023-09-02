@@ -15,7 +15,7 @@
 - bachelor in Computer Science 😎
 - I like to discover something new every day 📝
 - Focused on code 🏴
-- My site at: [<img src="https://raw.githubusercontent.com/diaspd/personal-site/main/src/assets/plain-logo.svg" alt="site logo" height="18" width="22"/>](https://pedro-dias.vercel.app)
+- My site at: [<kbd> <img src="https://raw.githubusercontent.com/diaspd/personal-site/main/src/assets/plain-logo.svg" alt="site logo" height="18" width="24"/> </kbd>](https://pedro-dias.vercel.app) 
 
 
 
