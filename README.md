@@ -10,12 +10,15 @@
 </div>
   
 ## About me
+
 - I'm a full stack developer 💻
 - bachelor in Computer Science 😎
 - I like to discover something new every day 📝
 - Focused on code 🏴
-- Personal site at: <a href="https://pedro-dias.vercel.app"> Here </a>
-  
+- My site at: [<img src="https://raw.githubusercontent.com/diaspd/personal-site/main/src/assets/plain-logo.svg" alt="site logo" height="18" width="22"/>](https://pedro-dias.vercel.app)
+
+
+
 </br>
   
 ## Technologies I know
