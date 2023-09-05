@@ -17,8 +17,6 @@
 - Focused on code 🏴
 - My site at: [<kbd> <img src="https://raw.githubusercontent.com/diaspd/personal-site/main/src/assets/plain-logo.svg" alt="site logo" height="20" width="20"/> </kbd>](https://pedro-dias.vercel.app) 
 
-
-
 </br>
   
 ## Technologies I know
