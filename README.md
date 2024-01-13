@@ -14,7 +14,7 @@
          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaspd&layout=compact&langs_count=7&theme=dark" />
       </td>
       <td>
-         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=diaspd&theme=dark&hide_border=false" />
+         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=diaspd&theme=dark" />
       </td>
     </tr>
   </table>
