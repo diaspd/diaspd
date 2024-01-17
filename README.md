@@ -45,7 +45,7 @@
   
   <img align="center" title="Next" alt="Next" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" />
   
-  <img align="center" title="Expo" alt="expo" width="40" height="35" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" />
+  <img align="center" title="Expo" alt="Expo" width="40" height="35" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" />
   
   <img align="center" title="Python" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   
