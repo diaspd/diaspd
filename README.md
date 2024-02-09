@@ -55,7 +55,7 @@
   
   <img align="center" title="Sqlite" alt="Sqlite" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
   
-  <img align="center" title="Figma" alt="Figma" width="40" height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+  <img align="center" title="Figma" alt="Figma" width="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
   
   <img align="center" title="TailwindCss" alt="tailwind" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
   
