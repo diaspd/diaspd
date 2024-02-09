@@ -57,7 +57,7 @@
   
   <img align="center" title="Figma" alt="Figma" width="40" height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
   
-  <img align="center" title="TailwindCss" alt="tailwind" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" title="TailwindCss" alt="tailwind" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
   
   <img align="right" alt="dias-gif" height="145rem" src="https://media.giphy.com/media/Ojf41KD6nv9kp1iMyc/giphy.gif" />
 </div>
