@@ -59,7 +59,7 @@
   
   <img align="center" title="TailwindCss" alt="tailwind" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
   
-  <img align="right" alt="pedro-dias-gif" height="140rem" src="https://media.giphy.com/media/Ojf41KD6nv9kp1iMyc/giphy.gif" />
+  <img align="right" alt="pedro-dias-gif" height="130rem" src="https://media.giphy.com/media/Ojf41KD6nv9kp1iMyc/giphy.gif" />
 </div>
 
 </br>
