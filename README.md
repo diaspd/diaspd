@@ -57,7 +57,7 @@
   
   <img align="center" title="Figma" alt="Figma" width="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
   
-  <img align="center" title="Tailwind Css" alt="tailwindcss" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" title="Tailwind Css" alt="Tailwindcss" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
   
   <img align="right" alt="pedro-dias-gif" height="100rem" src="https://media.giphy.com/media/Ojf41KD6nv9kp1iMyc/giphy.gif" />
 </div>
