@@ -11,7 +11,7 @@
          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=diaspd&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github status" />
       </td>
       <td>
-         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaspd&layout=compact&langs_count=7&theme=dark" />
+         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaspd&layout=compact&langs_count=7&theme=dark" alt="Most used languages" />
       </td>
       <td>
          <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=diaspd&theme=dark" />
