@@ -8,7 +8,7 @@
   <table>
     <tr>
       <td>
-         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=diaspd&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github status" />
+         <img src="https://github-readme-stats.vercel.app/api?username=diaspd&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github status" width="100%" />
       </td>
       <td>
          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaspd&layout=compact&langs_count=7&theme=dark" alt="Most used languages" />
