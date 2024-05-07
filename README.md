@@ -37,7 +37,7 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="center" title="CSS" alt="CSS" height="40" width="40" />
 
-  <img align="center" title="Java Script" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" align="center" title="Java Script" alt="JS" height="40" width="40" />
  
   <img align="center" title="Type Script" alt="TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
 
