@@ -45,7 +45,7 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" align="center" title="Electron" alt="Electron" height="40" width="40" />
   
-  <img align="center" title="Nextjs" alt="Next" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" align="center" title="Nextjs" alt="Next" height="40" width="40" />
   
   <img align="center" title="Expo" alt="Expo" width="40" height="35" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" />
   
