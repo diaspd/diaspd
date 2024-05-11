@@ -49,7 +49,7 @@
   
   <img align="center" title="Expo" alt="Expo" width="40" height="35" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" />
   
-  <img align="center" title="Python" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" title="Python" alt="Python" height="40" width="40" />
   
   <img align="center" title="NodeJS" alt="Node" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> 
   
