@@ -35,7 +35,7 @@
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" align="center" title="HTML" height="40" width="40" />
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="center" title="CSS" alt="CSS" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" align="center" title="CSS"  height="40" width="40" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" align="center" title="Java Script" alt="JS" height="40" width="40" />
  
