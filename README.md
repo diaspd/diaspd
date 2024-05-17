@@ -35,11 +35,11 @@
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" align="center" title="HTML" height="40" width="40" />
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" align="center" title="CSS"  height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" align="center" title="CSS" height="40" width="40" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" align="center" title="Java Script" alt="JS" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" align="center" title="Java Script" height="40" width="40" />
  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" align="center" title="Type Script" alt="TS" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TS" align="center" title="Type Script" height="40" width="40" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" align="center" title="React" alt="React" height="40" width="40" />
 
