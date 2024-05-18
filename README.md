@@ -41,7 +41,7 @@
  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TS" align="center" title="Type Script" height="40" width="40" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" align="center" title="React" alt="React" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" align="center" title="React" height="40" width="40" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" align="center" title="Electron" alt="Electron" height="40" width="40" />
   
