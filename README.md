@@ -43,9 +43,9 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" align="center" title="React" height="40" width="40" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" align="center" title="Electron" alt="Electron" height="40" width="40" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" align="center" title="Nextjs" alt="Next" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next" align="center" title="Nextjs" height="40" width="40" />
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" title="Electron" align="center" height="40" width="40" />
   
   <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" align="center" title="Expo" alt="Expo" width="40" height="35" />
   
