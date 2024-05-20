@@ -8,13 +8,13 @@
   <table>
     <tr>
       <td>
-         <img src="https://github-readme-stats.vercel.app/api?username=diaspd&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github status" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=diaspd&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Github status" width="100%" />
       </td>
       <td>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaspd&layout=compact&langs_count=7&theme=dark" alt="Most used languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaspd&layout=compact&langs_count=7&theme=dark" alt="Most used languages" width="100%" />
       </td>
       <td>
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=diaspd&theme=dark" alt="Streaks" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=diaspd&theme=dark" alt="Streaks" width="100%" />
       </td>
     </tr>
   </table>
