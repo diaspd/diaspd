@@ -51,7 +51,7 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" align="center" title="Python" height="40" width="40" />
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" align="center" title="NodeJS" alt="Node" width="40" height="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" align="center" title="NodeJS" width="40" height="40" /> 
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" align="center" title="Sqlite" alt="Sqlite" height="40" width="40" />
   
