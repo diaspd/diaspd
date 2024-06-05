@@ -41,7 +41,7 @@
  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TS" title="Type Script" align="center" height="40" width="40" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" align="center" title="React" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" align="center" height="40" width="40" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next" align="center" title="Nextjs" height="40" width="40" />
 
