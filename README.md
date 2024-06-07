@@ -43,7 +43,7 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" align="center" height="40" width="40" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next" align="center" title="Nextjs" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next" title="Nextjs" align="center" height="40" width="40" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" title="Electron" align="center" height="40" width="40" />
   
