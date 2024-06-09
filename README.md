@@ -47,7 +47,7 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" title="Electron" align="center" height="40" width="40" />
   
-  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="Expo" align="center" title="Expo" width="40" height="35" />
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="Expo" title="Expo" align="center" width="40" height="35" />
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" align="center" title="Python" height="40" width="40" />
   
