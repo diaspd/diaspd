@@ -67,7 +67,7 @@
 ## How to reach me out !!!
 
 <div "text-aling: center">
-  <a href="mailto: pdr050203@gamil.com">
+  <a href="mailto: peedrodr@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"  />
   </a> 
   
-  <a href="https://www.instagram.com/dias_pdr">
+  <a href="https://www.instagram.com/peedrodr">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>    
  
@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/-StackOverflow-%23EA4300?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" />
   </a>
   
-  <a href="https://twitter.com/diaspdr_1">
+  <a href="https://twitter.com/peedrodr_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
   </a> 
 </div>
