@@ -80,7 +80,7 @@
   </a>    
  
   <a href="https://stackoverflow.com/users/14940062/diaspd?tab=profile">
-    <img src="https://img.shields.io/badge/-StackOverflow-%23EA4300?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" />
+    <img src="https://img.shields.io/badge/-StackOverflow-%23EA4300?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stack overflow" />
   </a>
   
   <a href="https://twitter.com/peedrodr_">
