@@ -53,6 +53,8 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" title="NodeJS" align="center" width="40" height="40" /> 
   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" alt="Fastify" title="Fastify" align="center" width="40" height="40" /> 
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" title="Sqlite" align="center" height="40" width="40" />
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" align="center" width="40" height="35" />
