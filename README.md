@@ -85,8 +85,8 @@
     <img src="https://img.shields.io/badge/-StackOverflow-%23EA4300?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stack overflow" />
   </a>
   
-  <a href="https://twitter.com/peedrodr_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  <a href="https://x.com/peedrodr_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="x social media" />
   </a> 
 </div>
    
