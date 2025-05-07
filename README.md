@@ -30,42 +30,6 @@
 
 </br>
   
-## Technologies I know
-
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" align="center" height="40" width="40" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" align="center" height="40" width="40" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" title="Java Script" align="center" height="40" width="40" />
- 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TS" title="Type Script" align="center" height="40" width="40" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" align="center" height="40" width="40" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" align="center" height="38" width="38" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next" title="Nextjs" align="center" height="40" width="40" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" title="Electron" align="center" height="40" width="40" />
-  
-  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="Expo" title="Expo" align="center" width="40" height="35" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" align="center" height="40" width="40" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" title="NodeJS" align="center" width="40" height="40" /> 
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" alt="Fastify" title="Fastify" align="center" width="40" height="40" /> 
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" title="Sqlite" align="center" height="40" width="40" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" align="center" width="40" height="35" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" title="Tailwind Css" align="center" width="40" height="45" />
-</div>
-
-</br>
-  
 ## How to reach me out !!!
 
 <div "text-aling: center">
