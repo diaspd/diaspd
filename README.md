@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=202024&height=120&section=header" width=100% />
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c1c1c4&size=36&center=true&vCenter=true&width=1000&lines=Hello,+there!;My+name+is+Pedro+Dias;I'm+from+Brazil;Enjoy+my+profile+✨+👋)
 
 <div align="center">
@@ -53,5 +51,3 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="x social media" />
   </a> 
 </div>
-   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=202024&height=120&section=footer" width=100% />
