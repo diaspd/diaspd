@@ -25,8 +25,6 @@
 - I like to discover something new every day 📝
 - Focused 🏴
 - My website at: [<kbd> <img src="https://raw.githubusercontent.com/diaspd/terminal-site/refs/heads/main/public/plain-logo.svg" alt="site logo" title="site logo" height="20" width="22" /> </kbd>](https://pedro-dias.vercel.app) 
-
-</br>
   
 ## How to reach me out !!!
 
